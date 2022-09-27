@@ -5,7 +5,7 @@ Following repository are x86_64 VMs converted from other VM images into QCOW2 fo
 
 | VM | Source | Converted (ready to use) |
 |:---|:---|:---|
-| Metasploitable | [rapid7/metasploitable](https://information.rapid7.com/download-metasploitable- 2017.html) | [Metasploitable.Emulation.utm.zip](https://github.com/khronokernel/VM-Mirror/releases/download/0.0.1/Metasploitable.Emulation.utm.zip) |
+| Metasploitable | [rapid7/metasploitable](https://information.rapid7.com/download-metasploitable-2017.html) | [Metasploitable.Emulation.utm.zip](https://github.com/khronokernel/VM-Mirror/releases/download/0.0.1/Metasploitable.Emulation.utm.zip) |
 | Hacky Hack | hacky_hack.ova (ITSC200) | [Hacky.Hack.Emulation.utm.zip](https://github.com/khronokernel/VM-Mirror/releases/download/0.0.1/Hacky.Hack.Emulation.utm.zip) |
 
 Once downloaded, unzip them and import into [UTM](https://mac.getutm.app).
